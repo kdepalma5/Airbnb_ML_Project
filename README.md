@@ -1,4 +1,4 @@
-# Airbnb_Project
+# Airbnb_ML_Project
 
 Final Project for Break Through Tech AI's Machine Learning Foundations Course
 
